@@ -10,7 +10,7 @@ React, Node.js, and exploring machine learning concepts to integrate with web ap
 Open-source projects, web app development, and learning new frameworks and libraries.
 
 📫 How to reach me
-You can reach me via email at [youremail@example.com] or on Twitter @webbdevlopment.
+You can reach me via email at [kacembensaadoun024@gmail.com] or on Twitter @webbdevlopment.
 
 😄 Pronouns:
 He/Him, She/Her, or They/Them—whatever works best for you!
